@@ -1,6 +1,6 @@
 # Pandas_Tutorial
 
-Pandas Tutorial - 1<br />
+<h3> Pandas Tutorial - 1<br /></h3>
 1. Dataframe<br />
 2. Series<br />
 3. Reading data from different files<br />
@@ -17,7 +17,7 @@ Pandas Tutorial - 1<br />
 4.7 Information of Dataframe<br />
 4.8 Checking Missing Value<br />
 
-Pandas Tutorial - 2<br />
+<h3>Pandas Tutorial - 2<br /></h3>
 5. Manipulating Data<br />
 5.1 Adding new column to existing DataFrame<br />
 5.2 Deleting column<br />
