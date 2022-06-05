@@ -1,14 +1,14 @@
 # Pandas_Tutorial
 
 Pandas Tutorial - 1
-1. Dataframe
-2. Series
-3. Reading data from different files
-3.1 Read data from CSV
-3.2 Read data from EXCEL
-3.3 Read data from text file
-4. Viewing Data
-4.1 To view top 5 records in dataset
+1. Dataframe<br />
+2. Series<br />
+3. Reading data from different files<br />
+3.1 Read data from CSV<br />
+3.2 Read data from EXCEL<br />
+3.3 Read data from text file<br />
+4. Viewing Data<br />
+4.1 To view top 5 records in dataset<br />
 4.2 select particular columns
 4.3 Indexing using loc
 4.4 Indexing using iloc
