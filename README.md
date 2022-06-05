@@ -1,6 +1,6 @@
 # Pandas_Tutorial
 
-Pandas Tutorial - 1
+Pandas Tutorial - 1<br />
 1. Dataframe<br />
 2. Series<br />
 3. Reading data from different files<br />
@@ -9,24 +9,24 @@ Pandas Tutorial - 1
 3.3 Read data from text file<br />
 4. Viewing Data<br />
 4.1 To view top 5 records in dataset<br />
-4.2 select particular columns
-4.3 Indexing using loc
-4.4 Indexing using iloc
-4.5 To view bottom 5 records in dataset
-4.6 Describing Dataframe
-4.7 Information of Dataframe
-4.8 Checking Missing Value
+4.2 select particular columns<br />
+4.3 Indexing using loc<br />
+4.4 Indexing using iloc<br />
+4.5 To view bottom 5 records in dataset<br />
+4.6 Describing Dataframe<br />
+4.7 Information of Dataframe<br />
+4.8 Checking Missing Value<br />
 
-Pandas Tutorial - 2
-5. Manipulating Data
-5.1 Adding new column to existing DataFrame
-5.2 Deleting column
-5.3 Truncating data
-6. Concatenating, Appending, Merging & Joining
-6.1 Concat
-6.2 Appened
-6.3 Merge
-6.3.1 Merging a dataframe with one unique key combination
-6.3.2 Merging dataframe using how
-6.4 Join
-7. Group BY
+Pandas Tutorial - 2<br />
+5. Manipulating Data<br />
+5.1 Adding new column to existing DataFrame<br />
+5.2 Deleting column<br />
+5.3 Truncating data<br />
+6. Concatenating, Appending, Merging & Joining<br />
+6.1 Concat<br />
+6.2 Appened<br />
+6.3 Merge<br />
+6.3.1 Merging a dataframe with one unique key combination<br />
+6.3.2 Merging dataframe using how<br />
+6.4 Join<br />
+7. Group BY<br />
